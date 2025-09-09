@@ -18,15 +18,16 @@ body{
     border-radius: 50px;
     width: 1150px;
     height: 350px;
-    color: #006994;
+    color: #3382a1;
 }
 
 .prjtname{
     background-image: url(./background.jpg);
-    height: 20px;
+    height: 25px;
     display: grid;
 }
 
 .prjtcontent{
     color: #14313d;
+    font-size: medium;
 }
