@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('./background.jpg');
+    width: 100vw;
+}
+
+.sectionbox{
+    margin: 65px;
+    padding: 20px;
+    background-image: url('./background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    width: 1150px;
+    height: 350px;
+    color: #006994;
+}
+
+.prjtname{
+    background-image: url(./background.jpg);
+    height: 20px;
+    display: grid;
+}
+
+.prjtcontent{
+    color: #14313d;
+}
